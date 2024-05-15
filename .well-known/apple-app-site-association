@@ -5,8 +5,8 @@
             "appIDs": [ "S9R58L94VQ.biz.enon.uaetra" ],
             "components": [
                            {
-                              "/": "/*",
-                              "comment": "Matches any URL"
+                              "/": "/*/Services/*",
+                              "comment": "Matches services"
                            }
                         ]
            }
